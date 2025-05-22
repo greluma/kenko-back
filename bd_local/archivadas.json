@@ -1,0 +1,166 @@
+{
+  "archivadas": [
+    {
+      "id": 26,
+      "mensaje": "La paciente Sofía Ramos requiere estudio comparativo con imagen anterior.",
+      "leido": true,
+      "timestamp": "2023-02-14T10:23:45.123Z"
+    },
+    {
+      "id": 27,
+      "mensaje": "Alerta: examen de resonancia con artefactos de movimiento significativos.",
+      "leido": false,
+      "timestamp": "2023-07-28T15:12:09.456Z"
+    },
+    {
+      "id": 28,
+      "mensaje": "El sistema identificó una posible fractura no informada.",
+      "leido": true,
+      "timestamp": "2024-01-02T08:34:21.789Z"
+    },
+    {
+      "id": 29,
+      "mensaje": "El radiólogo ha solicitado examen complementario para mayor claridad.",
+      "leido": false,
+      "timestamp": "2023-11-19T19:47:31.816Z"
+    },
+    {
+      "id": 30,
+      "mensaje": "Informe de imagen pendiente de firma electrónica.",
+      "leido": false,
+      "timestamp": "2024-03-11T13:56:12.234Z"
+    },
+    {
+      "id": 31,
+      "mensaje": "Validación del protocolo de adquisición completada correctamente.",
+      "leido": true,
+      "timestamp": "2023-05-21T18:47:31.816Z"
+    },
+    {
+      "id": 32,
+      "mensaje": "Notificación: el sistema ha actualizado la vista 3D del TAC.",
+      "leido": true,
+      "timestamp": "2024-06-03T09:15:44.567Z"
+    },
+    {
+      "id": 33,
+      "mensaje": "Se ha recibido una solicitud externa para acceso temporal a imagen clínica.",
+      "leido": false,
+      "timestamp": "2023-07-22T11:28:55.890Z"
+    },
+    {
+      "id": 34,
+      "mensaje": "Nueva imagen DICOM cargada al sistema para revisión urgente.",
+      "leido": false,
+      "timestamp": "2024-08-10T17:39:01.234Z"
+    },
+    {
+      "id": 35,
+      "mensaje": "Informe corregido por el radiólogo principal, versión 2 disponible.",
+      "leido": true,
+      "timestamp": "2023-09-15T21:44:12.345Z"
+    },
+    {
+      "id": 36,
+      "mensaje": "El examen de mama muestra nódulo sospechoso, revisión prioritaria.",
+      "leido": true,
+      "timestamp": "2024-04-18T14:22:33.456Z"
+    },
+    {
+      "id": 37,
+      "mensaje": "Estudio aprobado por jefe de departamento, listo para entrega.",
+      "leido": true,
+      "timestamp": "2023-12-01T08:11:22.567Z"
+    },
+    {
+      "id": 38,
+      "mensaje": "AI recomienda comparar esta imagen con TAC de hace 6 meses.",
+      "leido": false,
+      "timestamp": "2024-02-27T16:55:44.678Z"
+    },
+    {
+      "id": 39,
+      "mensaje": "La imagen enviada fue rechazada por baja resolución, vuelva a cargarla.",
+      "leido": true,
+      "timestamp": "2023-10-05T19:33:55.789Z"
+    },
+    {
+      "id": 40,
+      "mensaje": "Informe con observaciones clínicas adjuntadas desde historia electrónica.",
+      "leido": false,
+      "timestamp": "2024-03-30T12:10:11.890Z"
+    },
+    {
+      "id": 41,
+      "mensaje": "Paciente en seguimiento oncológico: estudio de control disponible.",
+      "leido": true,
+      "timestamp": "2023-06-17T17:29:22.901Z"
+    },
+    {
+      "id": 42,
+      "mensaje": "Resultado automatizado sin alteraciones detectadas en escaneo cerebral.",
+      "leido": true,
+      "timestamp": "2024-01-23T20:48:33.012Z"
+    },
+    {
+      "id": 43,
+      "mensaje": "Ha llegado una imagen de columna lumbar sin diagnóstico aún.",
+      "leido": false,
+      "timestamp": "2023-08-09T11:57:44.123Z"
+    },
+    {
+      "id": 44,
+      "mensaje": "La resonancia cardíaca requiere validación por cardiólogo especialista.",
+      "leido": true,
+      "timestamp": "2024-05-12T15:16:55.234Z"
+    },
+    {
+      "id": 45,
+      "mensaje": "Análisis estructural craneal completado y verificado por IA.",
+      "leido": false,
+      "timestamp": "2023-03-27T13:25:06.345Z"
+    },
+    {
+      "id": 46,
+      "mensaje": "Notificación: paciente menor de edad, requiere doble validación clínica.",
+      "leido": true,
+      "timestamp": "2024-07-14T09:34:17.456Z"
+    },
+    {
+      "id": 47,
+      "mensaje": "Se ha generado una alerta por posible metástasis ósea.",
+      "leido": true,
+      "timestamp": "2023-11-29T22:43:28.567Z"
+    },
+    {
+      "id": 48,
+      "mensaje": "Imagen marcada como confidencial por el sistema de privacidad.",
+      "leido": false,
+      "timestamp": "2024-02-06T18:52:39.678Z"
+    },
+    {
+      "id": 49,
+      "mensaje": "Revisión programada automáticamente para este viernes a las 9:00 a.m.",
+      "leido": false,
+      "timestamp": "2023-04-25T07:01:40.789Z"
+    },
+    {
+      "id": 50,
+      "mensaje": "El sistema detectó coincidencias con patrones de neumonía avanzada.",
+      "leido": true,
+      "timestamp": "2024-09-03T10:10:51.890Z"
+    },
+    {
+      "id": 51,
+      "mensaje": "El sistema detectó coincidencias con patrones de neumonía avanzada.",
+      "leido": false,
+      "timestamp": "2023-10-13T12:20:02.901Z"
+    },
+    {
+      "id": 52,
+      "mensaje": "El sistema detectó coincidencias con patrones de neumonía avanzada.",
+      "leido": false,
+      "timestamp": "2024-06-21T14:30:13.012Z"
+    }
+  ]
+}

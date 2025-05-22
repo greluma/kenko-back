@@ -1,0 +1,144 @@
+{
+  "bandeja_entrada": [
+    {
+      "id": 1,
+      "mensaje": "Nuevo informe de rayos X disponible para el paciente Juan Pérez.",
+      "leido": false
+    },
+    {
+      "id": 2,
+      "mensaje": "Se detectaron anomalías en la tomografía de María Rodríguez.",
+      "leido": false
+    },
+    {
+      "id": 3,
+      "mensaje": "El Dr. Gómez solicitó una segunda opinión sobre la resonancia de Jorge Luis.",
+      "leido": false
+    },
+    {
+      "id": 4,
+      "mensaje": "Imagen de TAC del paciente Carla Suárez lista para revisión.",
+      "leido": false
+    },
+    {
+      "id": 5,
+      "mensaje": "El análisis automatizado detectó posibles microcalcificaciones.",
+      "leido": false
+    },
+    {
+      "id": 6,
+      "mensaje": "Informe de resonancia magnética finalizado para la paciente Ana Torres.",
+      "leido": false
+    },
+    {
+      "id": 7,
+      "mensaje": "Nuevo estudio radiológico ingresado desde el Hospital Central.",
+      "leido": false
+    },
+    {
+      "id": 8,
+      "mensaje": "Error de sincronización con el PACS. Revise el examen de Pedro González.",
+      "leido": false
+    },
+    {
+      "id": 9,
+      "mensaje": "El sistema sugiere reevaluar la imagen por baja calidad diagnóstica.",
+      "leido": false
+    },
+    {
+      "id": 10,
+      "mensaje": "Estudio comparativo con imágenes anteriores disponible para revisión.",
+      "leido": false
+    },
+    {
+      "id": 11,
+      "mensaje": "AI detectó sombra sospechosa en la radiografía de tórax de Lucía Vega.",
+      "leido": false
+    },
+    {
+      "id": 12,
+      "mensaje": "Validación pendiente de diagnóstico en la radiografía de cadera.",
+      "leido": false
+    },
+    {
+      "id": 13,
+      "mensaje": "Notificación de cambio en la prioridad del estudio de Tomás Aguilar.",
+      "leido": false
+    },
+    {
+      "id": 14,
+      "mensaje": "Solicitud urgente de lectura para imagen de columna cervical.",
+      "leido": false
+    },
+    {
+      "id": 15,
+      "mensaje": "Se completó análisis automático con hallazgos normales.",
+      "leido": false
+    },
+    {
+      "id": 16,
+      "mensaje": "Estudio de seguimiento disponible para paciente con antecedentes oncológicos.",
+      "leido": false
+    },
+    {
+      "id": 17,
+      "mensaje": "Nuevo escaneo por resonancia magnética cerebral cargado al sistema.",
+      "leido": false
+    },
+    {
+      "id": 18,
+      "mensaje": "El radiólogo asignado ha subido su interpretación preliminar.",
+      "leido": false
+    },
+    {
+      "id": 19,
+      "mensaje": "Se ha actualizado el historial de imágenes del paciente Adrián Peña.",
+      "leido": false
+    },
+    {
+      "id": 20,
+      "mensaje": "Se requiere confirmación del informe antes de enviarlo al médico tratante.",
+      "leido": false
+    },
+    {
+      "id": 21,
+      "mensaje": "Detección de densidad inusual en pulmón izquierdo en paciente Rosa Blanco.",
+      "leido": false
+    },
+    {
+      "id": 22,
+      "mensaje": "Radiografía dental disponible para consulta odontológica.",
+      "leido": false
+    },
+    {
+      "id": 23,
+      "mensaje": "Nueva ecografía subida al sistema sin anotaciones aún.",
+      "leido": false
+    },
+    {
+      "id": 24,
+      "mensaje": "TAC abdominal del paciente Federico Jiménez listo para dictamen.",
+      "leido": false
+    },
+    {
+      "id": 25,
+      "mensaje": "El algoritmo AI no encontró hallazgos relevantes en imagen torácica.",
+      "leido": false
+    },
+    {
+      "id": 53,
+      "mensaje": "El algoritmo AI no encontró hallazgos relevantes en imagen torácica.",
+      "leido": false
+    },
+    {
+      "id": 54,
+      "mensaje": "El algoritmo AI no encontró hallazgos relevantes en imagen torácica.",
+      "leido": false
+    },
+    {
+      "id": 55,
+      "mensaje": "El algoritmo AI no encontró hallazgos relevantes en imagen torácica.",
+      "leido": false
+    }
+  ]
+}
