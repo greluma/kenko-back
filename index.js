@@ -56,7 +56,7 @@ setInterval(() => {
   io.emit('notificacion', mensaje);
 
   currentIndex = (currentIndex + 1) % inbox.length; // Reinicia al llegar al final
-}, 5000);
+}, 15000);
 
 // Escucha conexiones
 io.on('connection', (socket) => {
